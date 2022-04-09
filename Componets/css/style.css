@@ -63,6 +63,7 @@ main {
 .rodape a{
     text-decoration: none;
     list-style: none;
+    color: #551a8b;
 }
 .walppaper{
     width: 460px;
